@@ -1,0 +1,14 @@
+{
+  "name": "primer",
+  "version": "1.0.0",
+  "description": "priemra entrega del curso node.js",
+  "main": "primera_entrega.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sebastian Cano",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^13.2.4"
+  }
+}
